@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianCalhoon
+- 👋 Hi, I’m @DABrianC
 - 👀 I’m interested in data visualization, data analysis, GIS, sports, and travel.
 - 🌱 I’m currently learning R and brushing up on my statistics and GIS skills.
 - 💞️ I’m looking to collaborate on ...
