@@ -2,8 +2,11 @@
 - 👀 I’m interested in data visualization, data analysis, GIS, sports, and travel.
 - 🌱 I’m currently learning R and brushing up on my statistics and GIS skills.
 
-**ACLED Exploration**
+**ACLED Data Exploration** <br>
 These two links will show you some simple data visualization blog posts that I've done using data from the Armed Conflict Location and Event Data database.
+
+https://managementsystemsintl.github.io/methods-corner/Exploring%20ACLED/ExploringACLED.html
+
 
 
 
