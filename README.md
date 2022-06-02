@@ -10,9 +10,7 @@ https://managementsystemsintl.github.io/methods-corner/Exploring%20ACLED/Explori
 https://managementsystemsintl.github.io/methods-corner/SouthSudan/SouthSudan_conflict.html
 
 **Animated Data** <br>
-I think it's fun to animate data so here are a few examples of my efforts.
-
-[Here's a daily conflict count bar chart that reorders itself each day.](https://github.com/DABrianC/ACLED-Sandbox/blob/main/WestAfricaEventsDaily.gif) 
+I think it's fun to animate data so here are a few examples of my efforts. I first wanted to learn how to make [a bar chart that reorders itself each day](https://github.com/DABrianC/ACLED-Sandbox/blob/main/WestAfricaEventsDaily.gif). Once I did that I wanted to understand how to make [a bar chart] that adds each day cumulatively and also reorders itself. These were both fun to make.
 
 
 
