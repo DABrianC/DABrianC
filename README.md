@@ -12,7 +12,7 @@ https://managementsystemsintl.github.io/methods-corner/SouthSudan/SouthSudan_con
 **Animated Data** <br>
 I think it's fun to animate data so here are a few examples of my efforts.
 
-https://DABrianC.github.io/ACLED-Sandbox/WestAfricaEventsDaily.gif 
+[Here's a daily conflict count bar chart that reorders itself each day.](https://github.com/DABrianC/ACLED-Sandbox/blob/main/WestAfricaEventsDaily.gif) 
 
 
 
