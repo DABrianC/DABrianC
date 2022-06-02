@@ -7,6 +7,12 @@ These two links will show you some simple data visualization blog posts that I'v
 
 https://managementsystemsintl.github.io/methods-corner/Exploring%20ACLED/ExploringACLED.html
 
+https://managementsystemsintl.github.io/methods-corner/SouthSudan/SouthSudan_conflict.html
+
+**Animated Data** <br>
+I think it's fun to animate data so here are a few examples of my efforts.
+
+
 
 
 
