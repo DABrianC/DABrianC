@@ -5,7 +5,7 @@
 **ACLED Data Exploration** <br>
 These two links will show you some simple data visualization blog posts that I've done using data from the Armed Conflict Location and Event Data database.
 
-https://managementsystemsintl.github.io/methods-corner/Exploring%20ACLED/ExploringACLED.html
+https://managementsystemsintl.github.io/methods-corner/Exploring%20ACLED/ExploringACLED2.html
 
 https://managementsystemsintl.github.io/methods-corner/SouthSudan/SouthSudan_conflict.html
 
