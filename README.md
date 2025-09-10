@@ -4,7 +4,7 @@
 - 🌱 I founded an R users group at my last job
 
 **Highlighted projects** <br>
-*My Website*
+*My Website* <br>
 I built my [personal website](https://dabrianc.github.io/website/) using Quarto, and it contains a blog titled [Humans Learning](https://dabrianc.github.io/website/blog.html) that provides examples of R scripts that provides code and examples of how to work with data. 
 
 *30 Day Map Challenge* <br>
