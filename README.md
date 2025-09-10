@@ -1,16 +1,15 @@
 - 👋 Hi, I’m @DABrianC
 - 👀 I’m interested in data visualization, data analysis, GIS, sports, and travel.
-- 🌱 I’m currently learning R and brushing up on my statistics and GIS skills.
+- I use Quarto for reports, presentations, dashboards, and blog posts. 
+- 🌱 I founded an R users group at my last job
 
-**ACLED Data Exploration** <br>
-These two links will show you some simple data visualization blog posts that I've done using data from the Armed Conflict Location and Event Data database.
+**Highlighted projects**
+I built my [personal website](https://dabrianc.github.io/website/) using Quarto, and it contains a blog titled [Humans Learning](https://dabrianc.github.io/website/blog.html) that provides examples of R scripts that provides code and examples of how to work with data. 
 
-https://managementsystemsintl.github.io/methods-corner/Exploring%20ACLED/ExploringACLED2.html
+**30 Day Map Challenge**
+A fun mapping challenge that happens every November. Each day is a new map prompt. A prompt may be lines, dots, interactive, polygons, etc. It is a great creative and data visualization challenge. My 2022 repo is the most that I've done to date. I also managed to do a few days in 2023. 
 
-https://managementsystemsintl.github.io/methods-corner/SouthSudan/SouthSudan_conflict.html
 
-**Animated Data** <br>
-I think it's fun to animate data so here are a few examples of my efforts. I first wanted to learn how to make [a bar chart that reorders itself each day](https://github.com/DABrianC/ACLED-Sandbox/blob/main/WestAfricaEventsDaily.gif). Once I did that I wanted to understand how to make [a bar chart that adds each day cumulatively and also reorders itself](https://github.com/DABrianC/ACLED-Sandbox/blob/main/WestAfricaEventsSumming.gif). These were both fun to make.
 
 
 
